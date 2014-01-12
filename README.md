@@ -1,8 +1,9 @@
 dbpedia2sqlite
 ==============
 
-A small 'script' (actually a Java program) that converts DBPedia's
-short_abstracts_en.nt into a SQLite database.
+A small 'script' (actually a Java program) that converts
+[DBpedia](http://dbpedia.org/)'s [`short_abstracts_en.nt`](http://wiki.dbpedia.org/Downloads39)
+into a [SQLite](http://www.sqlite.org/) database.
 If you don't know what that means, you probably don't need this.
 
 Licence
